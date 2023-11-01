@@ -4,6 +4,7 @@ import wave
 import pylab
 from tqdm import tqdm
 
+
 # 摩斯电码字典
 morse_dict = {
     '.-': 'A', '-...': 'B', '-.-.': 'C', '-..': 'D', '.': 'E', '..-.': 'F',
